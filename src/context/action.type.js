@@ -1,0 +1,16 @@
+export const LOGIN = 'LOGIN';
+export const ONBOARD = 'ONBOARD';
+export const BARSCANNED = 'BARSCANNED';
+export const LOADING = 'LOADING';
+export const LOGOUT = 'LOGOUT';
+export const PRODUCT_DATA = 'PRODUCT_DATA';
+export const STOCKS = 'STOCKS';
+export const VIEW_STOCK = 'VIEW_STOCK';
+export const DASHBOARD_DATA = 'DASHBOARD_DATA';
+export const STAFF = 'STAFF';
+export const STAFFS = 'STAFFS';
+export const TRIGGER_PULL = 'TRIGGER_PULL';
+export const NAV_BAR_SCANNER = 'NAV_BAR_SCANNER';
+export const SALES_PRODUCT = 'SALES_PRODUCT';
+export const SALES_PRODUCTS = 'SALLES_PRODUCTS';
+export const SALES_HISTORY = 'SALES_HISTORY';
